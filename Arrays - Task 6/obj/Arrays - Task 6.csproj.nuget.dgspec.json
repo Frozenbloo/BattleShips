@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tbloomer\\OneDrive - C2k\\AS Level\\Visual Studio 2019\\Arrays - Task 6\\Arrays - Task 6\\Arrays - Task 6.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tbloomer\\OneDrive - C2k\\AS Level\\Visual Studio 2019\\Arrays - Task 6\\Arrays - Task 6\\Arrays - Task 6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tbloomer\\OneDrive - C2k\\AS Level\\Visual Studio 2019\\Arrays - Task 6\\Arrays - Task 6\\Arrays - Task 6.csproj",
+        "projectName": "Arrays - Task 6",
+        "projectPath": "C:\\Users\\tbloomer\\OneDrive - C2k\\AS Level\\Visual Studio 2019\\Arrays - Task 6\\Arrays - Task 6\\Arrays - Task 6.csproj",
+        "packagesPath": "C:\\Users\\tbloomer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tbloomer\\OneDrive - C2k\\AS Level\\Visual Studio 2019\\Arrays - Task 6\\Arrays - Task 6\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tbloomer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

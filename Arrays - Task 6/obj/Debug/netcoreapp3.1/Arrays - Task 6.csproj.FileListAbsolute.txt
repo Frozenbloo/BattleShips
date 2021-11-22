@@ -1,0 +1,14 @@
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\bin\Debug\netcoreapp3.1\Arrays - Task 6.exe
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\bin\Debug\netcoreapp3.1\Arrays - Task 6.deps.json
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\bin\Debug\netcoreapp3.1\Arrays - Task 6.runtimeconfig.json
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\bin\Debug\netcoreapp3.1\Arrays - Task 6.runtimeconfig.dev.json
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\bin\Debug\netcoreapp3.1\Arrays - Task 6.dll
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\bin\Debug\netcoreapp3.1\Arrays - Task 6.pdb
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp3.1\Arrays - Task 6.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp3.1\Arrays - Task 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp3.1\Arrays - Task 6.AssemblyInfoInputs.cache
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp3.1\Arrays - Task 6.AssemblyInfo.cs
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp3.1\Arrays - Task 6.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp3.1\Arrays - Task 6.dll
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp3.1\Arrays - Task 6.pdb
+D:\Coding\C#\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp3.1\Arrays - Task 6.genruntimeconfig.cache

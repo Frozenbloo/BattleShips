@@ -1,0 +1,11 @@
+C:\Users\tbloomer\OneDrive - C2k\AS Level\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\bin\Debug\netcoreapp2.1\Arrays - Task 6.deps.json
+C:\Users\tbloomer\OneDrive - C2k\AS Level\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\bin\Debug\netcoreapp2.1\Arrays - Task 6.runtimeconfig.json
+C:\Users\tbloomer\OneDrive - C2k\AS Level\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\bin\Debug\netcoreapp2.1\Arrays - Task 6.runtimeconfig.dev.json
+C:\Users\tbloomer\OneDrive - C2k\AS Level\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\bin\Debug\netcoreapp2.1\Arrays - Task 6.dll
+C:\Users\tbloomer\OneDrive - C2k\AS Level\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\bin\Debug\netcoreapp2.1\Arrays - Task 6.pdb
+C:\Users\tbloomer\OneDrive - C2k\AS Level\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp2.1\Arrays - Task 6.csprojAssemblyReference.cache
+C:\Users\tbloomer\OneDrive - C2k\AS Level\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp2.1\Arrays - Task 6.csproj.CoreCompileInputs.cache
+C:\Users\tbloomer\OneDrive - C2k\AS Level\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp2.1\Arrays - Task 6.AssemblyInfoInputs.cache
+C:\Users\tbloomer\OneDrive - C2k\AS Level\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp2.1\Arrays - Task 6.AssemblyInfo.cs
+C:\Users\tbloomer\OneDrive - C2k\AS Level\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp2.1\Arrays - Task 6.dll
+C:\Users\tbloomer\OneDrive - C2k\AS Level\Visual Studio 2019\Arrays - Task 6\Arrays - Task 6\obj\Debug\netcoreapp2.1\Arrays - Task 6.pdb
